@@ -1,4 +1,4 @@
-package escuelaing.ieti.lab2p1;
+package escuelaing.ieti.lab2p2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

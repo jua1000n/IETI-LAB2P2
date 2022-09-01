@@ -1,4 +1,4 @@
-package escuelaing.ieti.lab2p1;
+package escuelaing.ieti.lab2p2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
