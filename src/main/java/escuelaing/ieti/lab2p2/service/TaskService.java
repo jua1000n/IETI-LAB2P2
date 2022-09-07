@@ -10,6 +10,6 @@ public interface TaskService {
     Task findById(int id);
     List<Task> getAll();
     void deleteById(int id);
-    Task update(Task task, int id);
+    Task update(Task task, int id) throws Exception;
 
 }
